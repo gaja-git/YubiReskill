@@ -1,2 +1,3 @@
 checking the merge conflict
 check the merge on One branch
+3rd line master now
